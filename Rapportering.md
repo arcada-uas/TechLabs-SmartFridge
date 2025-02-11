@@ -69,3 +69,7 @@ Två huvuden är ofta bättre än ett. Rådfråga din projektledare för specifi
 **Slutsats**  
 Att skriva en programvaruprojektrapport är en rigorös men ändå givande process. Tipsen och riktlinjerna i den här guiden syftar till att hjälpa  
 dig att skapa en rapport som inte bara är ett krav för att slutföra kursen utan ett bevis på din akademiska- och yrkesskicklighet.  
+
+
+
+test test alfred
