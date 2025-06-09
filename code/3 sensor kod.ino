@@ -3,7 +3,7 @@
 
 // Wi-Fi Credentials
 const char* ssid = "granqvist";
-const char* password = "kakipelle";
+const char* password = "";
 
 // Web server on port 80
 ESP8266WebServer server(80);
